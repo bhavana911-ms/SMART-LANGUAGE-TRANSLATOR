@@ -3,3 +3,4 @@ A Smart web-based language translator designed to help users communicate across 
 https://github.com/aRy-an06/Globe-lingo/blob/main/.gitignore
 https://github.com/aRy-an06/Globe-lingo/blob/main/app.py
 https://github.com/aRy-an06/Globe-lingo/blob/main/requirements.txt
+https://github.com/aRy-an06/Globe-lingo/blob/main/templates%2Findex.html
